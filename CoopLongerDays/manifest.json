@@ -1,0 +1,9 @@
+{
+  "Name": "Co-op Longer Days",
+  "Author": "LocalCoop contributors",
+  "Version": "1.2.1",
+  "Description": "Host-authoritative longer days with synchronized settings and an exact co-op profile check.",
+  "UniqueID": "LocalCoop.CoopLongerDays",
+  "EntryDll": "CoopLongerDays.dll",
+  "MinimumApiVersion": "4.0.0"
+}

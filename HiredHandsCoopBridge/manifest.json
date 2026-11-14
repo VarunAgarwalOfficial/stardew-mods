@@ -1,0 +1,16 @@
+{
+  "Name": "Hired Hands Co-op Bridge",
+  "Author": "LocalCoop contributors",
+  "Version": "1.0.0",
+  "Description": "Runs Hired Hands workers safely in host-authoritative background mode during multiplayer.",
+  "UniqueID": "LocalCoop.HiredHandsCoopBridge",
+  "EntryDll": "HiredHandsCoopBridge.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+    {
+      "UniqueID": "dreams897.HirelingSystem",
+      "MinimumVersion": "1.2.1",
+      "IsRequired": true
+    }
+  ]
+}
