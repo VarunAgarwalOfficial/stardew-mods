@@ -3,3 +3,25 @@ obj/
 .vs/
 backups/*.zip
 backups/*.tar.gz
+
+# Shared lines
+.DS_Store
+.idea/
+.vscode/
+*.swp
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+target/
+.lake/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
