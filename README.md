@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.png" alt="Pixel art: two farmers tend rows of crops beside a farmhouse and a chest" width="100%"></p>
+
 # stardew-mods
 
 Two SMAPI mods for co-op (multiplayer) Stardew Valley, written in C#:
