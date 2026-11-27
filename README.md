@@ -27,4 +27,4 @@ Working, as of 26 November 2026. Not yet tried in a real session across several 
 
 ## Licence
 
-Both mods are MIT. See each folder's LICENSE.
+MIT, see [LICENSE](LICENSE). Each mod folder carries its own copy.
